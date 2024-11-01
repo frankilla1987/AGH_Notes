@@ -33,5 +33,5 @@ Adguard Home 服务器的安装以及折腾手记。
 
 1.  本系列文章涉及的部分参数需要手动调整来符合切实使用需求。
 2.  随着 Adguard Home 的迭代更新，截图中的内容和实际页面显示可能存在差异。
-3.  如需引用，请注明本文出处。
+3.  此文来源于 Gitee [@callmer](https://gitee.com/callmer/agh_toss_notes)
 
